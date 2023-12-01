@@ -24,3 +24,7 @@ videos.forEach((video) => {
 });
 
 document.querySelector('.js-youtube-grid').innerHTML = videosHTML;
+
+document.querySelector('.hamburger-menu').addEventListener('click', () => {
+  document.querySelector('.sidebar').classList.toggle('active');
+});

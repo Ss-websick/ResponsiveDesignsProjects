@@ -26,6 +26,7 @@
   height: 24px;
   margin-left: 24px;
   margin-right: 24px;
+  cursor: pointer;
 }
 
 .youtube-logo {
@@ -166,4 +167,10 @@
   height: 32px;
   border-radius: 16px;
   cursor: pointer;
+}
+
+@media(max-width: 750px) {
+  .search-bar {
+    width: 60px;
+  }
 }
