@@ -5,8 +5,8 @@ videos.forEach((video) => {
   videosHTML += `
   <div class="channel-preview">
 
-    <div class="video-thumbnail"><a href="https://www.youtube.com/watch?v=n2RNcPRtAiY">
-      <img class="thumbnail" src="${video.thumbnail}" alt=""></a>
+    <div class="video-thumbnail">
+      <img class="thumbnail" src="${video.thumbnail}" alt="">
       <div class="video-time">${video.videoTime}</div>
     </div>
     <div class="video-preview">
