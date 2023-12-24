@@ -1,2 +1,2 @@
-##Check out this project
-![alt text](https://techtrooper11.github.io/youtube-project-javascript/)
+## Check out this project
+![YouTube](https://shivam-upadhyay-tech.github.io/youtube-project-javascript/)
